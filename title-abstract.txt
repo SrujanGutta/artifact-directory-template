@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Walking Cluster GCN
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This research addresses the challenge of efficiently training graph neural networks (GNNs) in the context of system-on-chip (SOC) design. The problem involves batching subgraph partitions for downstream machine learning. Our approach is motivated by the need to reduce computational costs when handling large graphs, particularly complex netlists. We propose a solution strategy that employs heuristic partitioning algorithms in conjunction with a random walk strategy for selecting representative batches for model training. We propose a solution which reduces computational overhead without hindering the overall performance of downstream graph ML applications. The goal is to create a solution that optimizes congestion model training while adhering to the constraints of SOC design.
